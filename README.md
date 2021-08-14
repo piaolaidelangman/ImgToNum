@@ -15,7 +15,7 @@ ffmpeg -i new.mp4 -vf crop=640:480:0:0 newout.mp4
 ### 已实现：
   可通过摄像头和视频文件两种方式使用  
   采用了最大池化和均值两种方式处理图像
-  ![image text](https://github.com/piaolaidelangman/ImgToNum/blob/main/result.jpg)
+  ![image text](https://github.com/piaolaidelangman/ImgToNum/raw/main/result.jpg)
 ### 未实现：
   任何分辨率图片自动压缩到120*160
   更精确的显示
